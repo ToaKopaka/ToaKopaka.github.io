@@ -3,7 +3,7 @@ html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
 
-This was a template that I used and changed for my portfolio site
+This was a template that I used and altered for my portfolio site
 
 
 Credits:
